@@ -7,6 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         Breaking changes!
+        Next.js 
+        Bootstrap
+
+      
       </header>
     </div>
   );
